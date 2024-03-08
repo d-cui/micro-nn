@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import torch
 
-from lib.value import Value
-from lib.nn import MultiLayerPerceptron
+from nn.value import Value
+from nn.nn import MultiLayerPerceptron
 from utils import render_expression
 
 
